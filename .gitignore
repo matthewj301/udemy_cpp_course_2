@@ -1,2 +1,5 @@
 # Project exclude paths
 /cmake-build-debug/
+.idea/
+2_CMake/
+3_Outro/
